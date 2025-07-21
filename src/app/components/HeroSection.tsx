@@ -4,7 +4,7 @@ import { TypewriterEffectSmooth } from "@/components/ui/TypewriteEffect";
 const HeroSection = () => {
   const words = [
     {
-      text: "2+",
+      text: "3+",
     },
     {
       text: "years",
